@@ -1,1 +1,1 @@
-This folder contains all the scripta for today's ALX Shell Basics projects.
+script that prints the absolute path name of the current working directory
